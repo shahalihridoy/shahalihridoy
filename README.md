@@ -8,6 +8,8 @@ I specialize in **React, Next.js, TypeScript, Node.js, Firebase, MongoDB, and Po
 
 I'm also actively exploring **AI-native software development, LLM applications, AI agents, RAG, and agentic coding workflows**.
 
+<p align="left"> <a href="mailto:shahalihridoy@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" /> </a> <a href="https://shahali.vercel.app/" target="_blank"> <img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white" alt="Portfolio" /> </a> <a href="https://www.linkedin.com/in/shahalihridoy/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /> </a> <a href="https://www.upwork.com/freelancers/~01a7050df026469d70" target="_blank"> <img src="https://img.shields.io/badge/Upwork-14A800?style=flat&logo=upwork&logoColor=white" alt="Upwork" /> </a> <a href="https://www.fiverr.com/shahalihridoy" target="_blank"> <img src="https://img.shields.io/badge/Fiverr-1DBF73?style=flat&logo=fiverr&logoColor=white" alt="Fiverr" /> </a> </p>
+
 ---
 
 ## 🚀 What I Do
